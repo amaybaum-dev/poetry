@@ -11,7 +11,7 @@ packages = [
 
 [tool.poetry.dependencies]
 python = "*"
-requests = "~=2.25.1"
+requests = "~=2.32.4"
 
 [build-system]
 requires = ["poetry-core"]
